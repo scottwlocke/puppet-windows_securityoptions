@@ -15,4 +15,4 @@ Puppet types & providers.
 #### Reference
 
 See [REFERENCE.md](REFERENCE.md)
-YouTube [https://www.youtube.com/watch?v=z2eStuaPN68&list=PLV86BgbREluWiCJZ0POmZQuYoft4VurWs&index=2]
+YouTube [Puppet Camp America East: Windows without GPOs](https://www.youtube.com/watch?v=z2eStuaPN68&list=PLV86BgbREluWiCJZ0POmZQuYoft4VurWs&index=2)
